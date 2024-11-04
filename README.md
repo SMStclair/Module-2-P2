@@ -6,3 +6,6 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 ## Rubric
 
 Each question is worth one point.
+
+## HTML Convert method:
+Used export using inline command as save as didn't work
